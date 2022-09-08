@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BankHistory</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="seu_saldo">Seu saldo</string>
+    <string name="suas_movimentacoes">Suas movimentações</string>
+    <string name="comprovante">Comprovante</string>
+    <string name="tipo_de_movimentacao">Tipo de movimentação</string>
+    <string name="transferencia_enviada">Transferência enviada</string>
+    <string name="label_valor">Valor</string>
+    <string name="valor_da_transacao">R$ 100,00</string>
+    <string name="label_recebedor">Recebedor</string>
+    <string name="nome_do_recebedor">Rodrigo Fernandes</string>
+    <string name="label_instituicao_bancaria">Instituição bancária</string>
+    <string name="nome_instituicao_bancaria">Bank XPTO</string>
+    <string name="label_data_hora">Data/Hora</string>
+    <string name="data_hora_da_transacao">13/10/2020 - 15:27:02</string>
+    <string name="label_autenticacao">Autenticação</string>
+    <string name="num_autenticacao">0123456789</string>
+    <string name="btn_compartilhar">Compartilhar</string>
+</resources>
